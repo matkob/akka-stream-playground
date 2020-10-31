@@ -10,10 +10,10 @@
 
     <properties>
         <scala.version.major>2.12</scala.version.major>
-        <scala.version.minor>8</scala.version.minor>
+        <scala.version.minor>12</scala.version.minor>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <akka.version>2.6.4</akka.version>
-        <akka.http.version>10.1.11</akka.http.version>
+        <akka.version>2.6.10</akka.version>
+        <akka.http.version>10.2.1</akka.http.version>
     </properties>
 
     <dependencies>
